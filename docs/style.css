@@ -1,0 +1,4 @@
+.social-icon:hover {
+    animation: pulse;
+    animation-duration: 1s;
+}
