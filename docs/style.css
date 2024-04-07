@@ -2,3 +2,7 @@
     animation: pulse;
     animation-duration: 1s;
 }
+
+a > i {
+    width: 100%;
+}
